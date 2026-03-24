@@ -1,0 +1,10 @@
+{
+  "name": "Rareanime",
+  "version": 1,
+  "description": "Rareanime basic plugin",
+  "authors": ["Shadowx"],
+  "status": 1,
+  "tvTypes": ["Anime", "Movie"],
+  "url": "https://rareanimes.app",
+  "iconUrl": "https://img.rareanimes.app/wp-content/uploads/2023/11/cropped-Rare-Animes-India.png"
+}
