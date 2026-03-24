@@ -1,0 +1,8 @@
+{
+  "name": "Shadowx Anime Repo",
+  "description": "Proxy Cloudstream repo",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/recloudstream/extensions/master/plugins.json"
+  ]
+}
