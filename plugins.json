@@ -1,8 +1,12 @@
 {
   "name": "Shadowx Anime Repo",
-  "description": "Working repo",
+  "description": "Rareanime Plugin Repo",
   "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/master/repo.json"
+  "plugins": [
+    {
+      "name": "Rareanime",
+      "url": "https://raw.githubusercontent.com/shadowbhaiii/Shadowx-anime-/main/rareanime.cs3",
+      "version": 1
+    }
   ]
 }
